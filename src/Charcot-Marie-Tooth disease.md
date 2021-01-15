@@ -56,7 +56,7 @@ Hereditary motor sensory neuropathies (HMSN), 腓骨肌萎缩症
    - [Atrophy](https://www.amboss.com/us/knowledge/Cellular_changes_and_adaptive_responses#Za78e93e8d8af6655bfa6f64569ad19e2) of the calf muscles -> [Foot drop](https://www.amboss.com/us/knowledge/Peripheral_nerve_injuries#Zbb2234eb409b82043629ee23dffb366e) -> Steppage gait 跨域步态
    - 足部肌肉萎缩 -> **==Pes cavus deformity==**，**==[Hammer toe](https://www.amboss.com/us/knowledge/Toe_deformities#Z1210a6f3cdf5cf727680095fc2325187)==**
 
-   <img src="Charcot-Marie-Tooth%20disease_media/image-20210113204134937.png" alt="image-20210113204134937" style="zoom: 33%;" />
+   ![image-20210113204134937](Charcot-Marie-Tooth%20disease_media/image-20210113204134937.png)
 
    - 累及**小腿全部肌群**和**大腿的下 1/3** 时，整个下肢呈倒立的香槟酒瓶状 -> **鹤腿**(**“stork legs”**)
 
