@@ -21,12 +21,12 @@ enable_jsdelivr = {
 # 站点设置
 site_name = "我的个人博客"
 site_logo = "${static_prefix}logo.png"
-site_build_date = "2019-12-18T16:51+08:00"
-author = "熊猫小A"
-email = "hi@imalan.cn"
-author_homepage = "https://www.imalan.cn"
-description = "只坚持一种正义。我的正义。"
-key_words = ['Maverick', '熊猫小A', 'Galileo', 'blog']
+site_build_date = "2021-01-15T16:51+08:00"
+author = "Alex"
+email = "lijiaxiang63@live.com"
+author_homepage = "https://lijiaxiang63.github.io/"
+description = "我唯一确定的是我的无知"
+key_words = ['Maverick', 'Alex', 'Galileo', 'blog']
 language = 'zh-CN'
 external_links = [
     {
@@ -66,7 +66,7 @@ social_links = [
     },
     {
         "name": "GitHub",
-        "url": "https://github.com/AlanDecode",
+        "url": "https://github.com/lijiaxiang98",
         "icon": "gi gi-github"
     },
     {
